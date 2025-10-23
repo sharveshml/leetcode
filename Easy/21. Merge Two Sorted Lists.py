@@ -25,4 +25,3 @@ class Solution:
             tmp.next = ptr2
 
         return res.next
-            
