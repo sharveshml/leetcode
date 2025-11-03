@@ -36,3 +36,6 @@ class Solution:
             n //=  2
 
         return result
+
+a = Solution()
+print(a.myPow(2,6))
